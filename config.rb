@@ -47,11 +47,10 @@ end
 #   end
 # end
 
-set :css_dir, 'stylesheets'
-
-set :js_dir, 'javascripts'
-
-set :images_dir, 'images'
+set :css_dir,       'stylesheets'
+set :js_dir,        'javascripts'
+set :images_dir,    'images'
+set :partials_dir,  'partials'
 
 # Build-specific configuration
 configure :build do
@@ -78,5 +77,10 @@ activate :deploy do |deploy|
   deploy.build_before = true
 end
 
-# ???
+# create a folder for each .html file and 
+# place the built template file as the index.html of that folder
 activate :directory_indexes
+
+# Custom Helpers
+helpers do
+end

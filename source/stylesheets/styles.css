@@ -422,46 +422,46 @@ header .intro-section .buttons {
    SECTION:  BRIEF                 
 -----------------------------------------*/
 
-.app-brief {
+.explanation {
     background: #FFFFFF;
     padding-top: 110px;
     padding-bottom: 60px;
 }
 
-.app-brief h2 {
+.explanation h2 {
     margin-bottom: 20px;
 }
 
-.app-brief .phone-image {
+.explanation .phone-image {
     max-width: 350px;
     margin: auto;
     margin-bottom: 50px;
 }
 
-.app-brief .phone-image img {
+.explanation .phone-image img {
     width: 100%;
 }
 
-.app-brief .left-align {
+.explanation .left-align {
     text-align: left;
     margin-bottom: 50px;
 }
 
-.app-brief .left-align p {
+.explanation .left-align p {
     display: block;
     float: none;
     margin-top: 50px;
 }
 
-.app-brief .left-align .feature-list {
+.explanation .left-align .feature-list {
     margin-top: 40px;
 }
 
-.app-brief .left-align .feature-list li {
+.explanation .left-align .feature-list li {
     margin-bottom: 26px;
 }
 
-.app-brief .left-align .feature-list li i {
+.explanation .left-align .feature-list li i {
     margin-right: 10px;
     vertical-align: inherit;
 }
