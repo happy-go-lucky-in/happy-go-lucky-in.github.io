@@ -2,22 +2,23 @@
   <div class="row">
   
     <!-- BRIEF -->
-    <div class="col-md-6 left-align wow fadeInLeft animated" data-wow-offset="10" data-wow-duration="1.5s">
+    <div class="col-md-11 left-align wow fadeInLeft animated" data-wow-offset="10" data-wow-duration="1.5s">
     
       <!-- SECTION TITLE -->
-      <h2 class="dark-text">Great way to describe your app</h2>
+      <h2 class="dark-text"><%= data.offers.headline %></h2>
     
-      <div class="colored-line-left">
-      </div>
+      <div class="colored-line-left"></div>
     
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/>
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      </p>
+      <% data.offers.paragraphs.each do |paragraph| %>
+        <p><%= paragraph %></p>
+      <% end %>
     
     </div>
     <!-- /ENDBRIEF -->
-  
+    
+    <div class="col-md-1"></div>
+    
+    <%# TODO?
     <!-- PHONES IMAGE -->
     <div class="col-md-6 wow fadeInRight animated" data-wow-offset="10" data-wow-duration="1.5s">
       <div class="phone-image">
@@ -25,6 +26,7 @@
       </div>
     </div>
     <!-- /END PHONES IMAGE -->
+    %>
 
   </div>
   <!-- /END ROW -->
