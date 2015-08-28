@@ -1,0 +1,42 @@
+title: Affordable Packages
+description: List your app features and all the details
+items:
+  - headline: Personal
+    highlight: false
+    price: 
+      sign: €
+      amount: 50
+      period: '/month'
+    features:
+      - Unlimited Photos
+      - Secure Online Transfer
+      - Unlimited Styles
+      - Cloud Storage
+      - 24/7 Customer Service
+      - Automatic Backup
+  - headline: Business
+    highlight: true
+    price: 
+      sign: €
+      amount: 75
+      period: '/month'
+    features:
+      - Unlimited Photos
+      - Secure Online Transfer
+      - Unlimited Styles
+      - Cloud Storage
+      - 24/7 Customer Service
+      - Automatic Backup
+  - headline: Ultimate
+    highlight: false
+    price: 
+      sign: €
+      amount: 100
+      period: '/month'
+    features:
+      - Unlimited Photos
+      - Secure Online Transfer
+      - Unlimited Styles
+      - Cloud Storage
+      - 24/7 Customer Service
+      - Automatic Backup
