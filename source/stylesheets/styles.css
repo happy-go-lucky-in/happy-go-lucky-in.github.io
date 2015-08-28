@@ -557,6 +557,12 @@ object {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.testimonials {
+  background: url('../images/bg-2.jpg') no-repeat center;
+  -webkit-background-size: cover;
+          background-size: cover;
+  }
+}
 
 /*---------------------------------------
    SECTION:  SERVICES           
@@ -709,6 +715,12 @@ object {
 
 .contact h2 {
     margin-bottom: 30px;
+}
+
+.contact {
+  background: url('../images/bg-3.jpg') no-repeat center;
+  -webkit-background-size: cover;
+          background-size: cover;
 }
 
 /*---------------------------------------
