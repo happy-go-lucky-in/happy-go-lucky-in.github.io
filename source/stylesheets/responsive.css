@@ -20,8 +20,8 @@ RESPONSIVE FIXES
             background-size: cover;
     }
     
-    .download {
     background: url('../images/bg-1.jpg') no-repeat center;
+    .contact {
     -webkit-background-size: cover;
             background-size: cover;
     
@@ -162,7 +162,7 @@ RESPONSIVE FIXES
         margin: auto;
     }
 
-    .download .subscription-form .input-box {
+    .contact .subscription-form .input-box {
         margin: auto;
         width: 80%;
         margin-bottom: 10px;
@@ -200,7 +200,7 @@ RESPONSIVE FIXES
         margin-top: 15px;
     }
 
-    .download .subscription-form .input-box {
+    .contact .subscription-form .input-box {
         width: 95%;
         height: 50px;
     }
