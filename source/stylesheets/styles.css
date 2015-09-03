@@ -305,7 +305,7 @@ header .full-screen {
 }
 
 .sticky-navigation .main-navigation .current a {
-  color: #000000 !important;
+  color: #000000;
   position: relative;
   outline: none;
 }
@@ -339,7 +339,7 @@ header .only-logo .navbar .navbar-header {
 
 header .intro-section {
     margin: auto;
-    padding-top: 15%;
+    padding-top: 40%;
 }
 
 header .intro-section .intro {
@@ -428,8 +428,8 @@ header .intro-section .buttons {
 
 .explanation {
     background: #FFFFFF;
-    padding-top: 110px;
-    padding-bottom: 60px;
+    padding-top: 80px;
+    padding-bottom: 40px;
 }
 
 .explanation h2 {
@@ -683,8 +683,8 @@ object {
 }
 
 .contact .color-overlay {
-    padding-top: 110px;
-    padding-bottom: 70px;
+    padding-top: 80px;
+    padding-bottom: 40px;
 }
 
 .contact .contact-container {
@@ -735,7 +735,7 @@ footer {
 }
 
 footer .contact-box {
-    margin-bottom: 78px;
+    margin-bottom: 30px;
 }
 
 footer .contact-box .contact-button {
@@ -825,6 +825,7 @@ footer .skyline {
 }
 
 footer .skyline img {
+  margin: 30px 40px 0 0;
   width: 256px;
 }
 

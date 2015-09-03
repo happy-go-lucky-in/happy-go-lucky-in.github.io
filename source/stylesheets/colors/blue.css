@@ -100,3 +100,7 @@ footer .skyline {
 .social-icons li a:hover {
     color: #008ed6;
 }
+
+.sticky-navigation .main-navigation .current a {
+  color: #008ed6;
+}
