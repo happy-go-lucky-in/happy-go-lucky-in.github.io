@@ -89,6 +89,6 @@ footer .contact-box .expanded-contact-form .textarea-box:focus {
     border: 1px solid #ea8825;
 }
 
-footer .social-icons li a:hover {
+.social-icons li a:hover {
     color: #ea8825;
 }

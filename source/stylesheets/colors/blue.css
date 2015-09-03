@@ -89,6 +89,14 @@ footer .contact-box .expanded-contact-form .textarea-box:focus {
     border: 1px solid #008ed6;
 }
 
-footer .social-icons li a:hover {
+footer .skyline-container {
+  background-image: url(../../images/skyline-blue.svg);
+}
+
+footer .skyline {
+  border-bottom-color: #008ed6;
+}
+
+.social-icons li a:hover {
     color: #008ed6;
 }

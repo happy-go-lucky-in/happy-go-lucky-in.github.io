@@ -296,8 +296,12 @@ header .full-screen {
 }
 
 .sticky-navigation .navbar-header img {
-  max-height: 30px;
+  max-height: 55px;
   -webkit-backface-visibility: hidden;
+}
+
+.sticky-navigation .navbar-header .navbar-brand {
+  padding: 0 15px;
 }
 
 .sticky-navigation .main-navigation .current a {
@@ -727,6 +731,7 @@ object {
 -----------------------------------------*/
 footer {
     background: #FFFFFF;
+    height: 100%;
 }
 
 footer .contact-box {
@@ -785,20 +790,42 @@ footer .contact-box .expanded-contact-form .textarea-box:active {
     color: #000;
 }
 
-footer .social-icons {
+.social-icons {
     margin-top: 30px;
+/*
     border-bottom: 1px solid #e5e5e5;
     padding-bottom: 50px;
+*/
 }
 
-footer .social-icons li {
+.social-icons li {
     display: inline-block;
     margin: 5px;
 }
 
-footer .social-icons li a {
+.social-icons li a {
+    text-decoration:none !important;
     font-size: 30px;
     color: #c2c2c2;
+}
+footer .skyline-container, footer .skyline {
+  width: 100%;
+  min-height: 256px;
+}
+
+footer .skyline-container {
+  background-image: url(../images/skyline.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+footer .skyline {
+  border-bottom: 15px solid black;
+}
+
+footer .skyline img {
+  width: 256px;
 }
 
 footer .copyright {

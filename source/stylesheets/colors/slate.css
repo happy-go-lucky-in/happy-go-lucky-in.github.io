@@ -89,6 +89,10 @@ footer .contact-box .expanded-contact-form .textarea-box:focus {
     border: 1px solid #6b798f;
 }
 
-footer .social-icons li a:hover {
+footer .skyline {
+  border-bottom-color: #6b798f;
+}
+
+.social-icons li a:hover {
     color: #6b798f;
 }

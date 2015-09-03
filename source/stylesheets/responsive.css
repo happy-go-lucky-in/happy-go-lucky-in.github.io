@@ -27,6 +27,9 @@ RESPONSIVE FIXES
     
     }
     
+    footer .skyline {
+      border-bottom: none;
+    }
 } 
  
 
