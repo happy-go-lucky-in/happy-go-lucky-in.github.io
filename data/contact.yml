@@ -1,0 +1,12 @@
+headline: Get in touch with us
+paragraphs:
+  - "Let's get in contact and discuss how we can help you."
+socials:
+  - url: http://www.facebook.com
+    icon: facebook_square
+  - url: http://www.twitter.com
+    icon: twitter_square
+  - url: http://www.google.com
+    icon: googleplus_square
+  - url: http://www.skype.com
+    icon: skype_square
