@@ -243,14 +243,14 @@ h5 {
 .colored-line {
     margin: auto;
     z-index: 1;
-    width: 165px;
+    width: 95%;
     height: 1px;
 }
 
 .white-line {
     margin: auto;
     z-index: 1;
-    width: 165px;
+    width: 95%;
     height: 1px;
     background: #ffffff;
 }
@@ -573,12 +573,12 @@ object {
 
 .services {
     padding-top: 80px;
-    padding-bottom: 60px;
     background: #ffffff;
 }
 
 .services .single-service {
-    padding-bottom: 60px;
+    padding-bottom: 40px;
+    min-height: 400px;
 }
 
 .services .single-service .service-icon {
@@ -588,7 +588,6 @@ object {
 .services .single-service h3 {
     margin-top: 20px;
 }
-
 
 
 /*---------------------------------------
@@ -669,8 +668,13 @@ object {
   margin-bottom: 15px;
 }
 
-.single-package .package-feature > li > span {
-  margin-right: 7px;
+.single-package .package-feature > li > span.icon {
+  margin: 0 7px;
+}
+
+.single-package .package-feature > li > span.feature {
+  min-width: 60%;
+  display: inline-block;
 }
 
 

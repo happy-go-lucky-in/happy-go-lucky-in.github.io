@@ -38,7 +38,10 @@
 
           <ul class="package-feature">
             <% package.features.each do |feature | %>
-              <li><span class="main-color icon_check_alt2"></span><%= feature %></li>
+              <li>
+                <span class="icon main-color icon_check_alt2"></span>
+                <span class="feature"><%= feature %></span>
+              </li>
             <% end %>
           </ul>
 
