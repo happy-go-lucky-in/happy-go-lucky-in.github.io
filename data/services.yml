@@ -1,12 +1,27 @@
-title: It's Awesome
-description: List your app features and all the details
+title: Our service offering
+description: "We do offer comprehensive services for your convenience. Please don't hesitate to contact us if you should miss a service you would like us to provide."
 items:
-  - headline: Your Data in Cloud
-    icon: cloud-upload_alt
-    description: "Fruitful Fruit hath, fruitful said him created bring set, behold darkness Shall lights deep fish seasons itself given likeness upon bring fill their their whose. Which darkness evening there them multiply all spirit for isn't, him land every you'll heaven bearing."
-  - headline: Monthly Rewards
-    icon: gift_alt
-    description: "Fruitful Fruit hath, fruitful said him created bring set, behold darkness Shall lights deep fish seasons itself given likeness upon bring fill their their whose. Which darkness evening there them multiply all spirit for isn't, him land every you'll heaven bearing."
-  - headline: 24/7 Support
-    icon: chat_alt
-    description: "Fruitful Fruit hath, fruitful said him created bring set, behold darkness Shall lights deep fish seasons itself given likeness upon bring fill their their whose. Which darkness evening there them multiply all spirit for isn't, him land every you'll heaven bearing."
+  - headline: Tax advisory
+    icon: currency #documents_alt
+    description: "Tax will come into play for you in one form or another. Together we will setup an individual tax plan for you covering your individual tax liabilities and advisory needs. In addition we do reviel tax saving potentials, identify tax risks, prepare your annual tax declaration and maintain effective relationships with tax authorities."
+  - headline: Financial accountancy
+    icon: datareport
+    description: "No matter if you are chaotic or well organized - together we will establish an easy to handle but accurate bookkeeping process. Based on our accounting we will compile financial statements and analys your incomes and expenses process to reviel financial opportunities and risks. In doing so discretion is a matter of course."
+  - headline: Organisational consulting
+    icon: cogs
+    description: "Your life might be well-organised already but did you consider special German regulations and conditions? We do advise you on essential insurances, optimal corporated and non-incorporated forms, relevant labour legislation and much more. In short - we are happy to assist you in enhancing your life and work organisation."
+
+  - headline: Authorities assistence
+    icon: shield #building
+    description: "Letter translation & preparation, appointing with accompanying to 'Bürgeramt' and other local authorities, Working Visa"
+    
+  - headline: Relocation support
+    icon: house_alt
+    description: "Organizing appartment, 'Spedition', bank account, German language course, 'Meldebescheinigung', Bankkonto eröffnen, one time fee"
+
+  - headline: Partner network
+    icon: genius
+    description: "profit from our partner network, layers, tax advisors, insurance agents, etc."
+
+
+

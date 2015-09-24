@@ -1,42 +1,40 @@
-title: Affordable Packages
-description: List your app features and all the details
+title: Our competitive pricing
+description: "We do offer our services in reasonable packages. Please don't hesitate to contact us if you would prefer an individual combination of services."
 items:
-  - headline: Personal
+  - headline: Employee # Hang Loose
     highlight: false
     price: 
       sign: €
-      amount: 50
+      amount: 99
       period: '/month'
     features:
-      - Unlimited Photos
-      - Secure Online Transfer
-      - Unlimited Styles
-      - Cloud Storage
-      - 24/7 Customer Service
-      - Automatic Backup
-  - headline: Business
+      - Administrative support
+      - Date notifiction
+      - Simple Accounting
+      - Tax advisory
+  - headline: Freelance # No worries
     highlight: true
     price: 
       sign: €
-      amount: 75
+      amount: 199
       period: '/month'
     features:
-      - Unlimited Photos
-      - Secure Online Transfer
-      - Unlimited Styles
-      - Cloud Storage
-      - 24/7 Customer Service
-      - Automatic Backup
-  - headline: Ultimate
+      - Administrative support
+      - Date notifiction
+      - Accounting
+      - VAT declarations
+      - Income tax declaration
+  - headline: Privatier # Devil may care
     highlight: false
     price: 
       sign: €
-      amount: 100
+      amount: 299
       period: '/month'
     features:
-      - Unlimited Photos
-      - Secure Online Transfer
-      - Unlimited Styles
-      - Cloud Storage
-      - 24/7 Customer Service
-      - Automatic Backup
+      - Administrative support
+      - Date notifiction
+      - Accounting
+      - VAT declarations
+      - Income tax declaration
+      - Annual statements
+      - Correspondence translations
