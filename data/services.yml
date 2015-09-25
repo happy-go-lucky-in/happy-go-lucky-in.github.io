@@ -10,18 +10,12 @@ items:
   - headline: Organisational consulting
     icon: cogs
     description: "Your life might be well-organised already but did you consider special German regulations and conditions? We do advise you on essential insurances, optimal corporated and non-incorporated forms, relevant labour legislation and much more. In short - we are happy to assist you in enhancing your life and work organisation."
-
-  - headline: Authorities assistence
+  - headline: Authorities assistance
     icon: shield #building
-    description: "Letter translation & preparation, appointing with accompanying to 'Bürgeramt' and other local authorities, Working Visa"
-    
+    description: "Surely you know better things to do than wasting your precious time in the corridors of public authorities. Just leave it to us - we take care of the organisation and communication with the authorities. If you have to show up in person, we do of course accompany you and do all the translation for you work if necessary."
   - headline: Relocation support
     icon: house_alt
-    description: "Organizing appartment, 'Spedition', bank account, German language course, 'Meldebescheinigung', Bankkonto eröffnen, one time fee"
-
+    description: "Moving to another city means a lot of organizational effort. To ease this pain we support you in finding an appartment, organize the moving of your belongings, take care of your registration certificate, open up a new bank account for you, organize German language courses and give you valuable tips about how to survive in Berlin."
   - headline: Partner network
     icon: genius
-    description: "profit from our partner network, layers, tax advisors, insurance agents, etc."
-
-
-
+    description: "Take advantage of our wide network of experts of lawyers, accountants, tax advisors, insurance agents, accommodation brokers and much more. There will be no language barriers - we do act as your single point of contact and ensure your concerns and requests are handled by the best person quickly and to your satisfaction."
