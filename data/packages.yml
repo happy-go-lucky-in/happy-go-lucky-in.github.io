@@ -1,7 +1,8 @@
 title: Our competitive pricing
 description: "We do offer our services in reasonable packages. Please don't hesitate to contact us if you would prefer an individual combination of services."
 items:
-  - headline: Employee # Hang Loose
+  - headline: Hang Loose
+    subline: Best for employees
     highlight: false
     price: 
       sign: €
@@ -12,7 +13,8 @@ items:
       - Date notifiction
       - Simple Accounting
       - Tax advisory
-  - headline: Freelance # No worries
+  - headline: No worries
+    subline: Best for freelancers
     highlight: true
     price: 
       sign: €
@@ -24,7 +26,8 @@ items:
       - Accounting
       - VAT declarations
       - Income tax declaration
-  - headline: Privatier # Devil may care
+  - headline: Devil may care
+    subline: Best for independent gentlemen
     highlight: false
     price: 
       sign: €

@@ -632,6 +632,10 @@ object {
     margin-bottom: 60px;
 }
 
+.single-package .package-heading {
+  margin-bottom: 0;
+}
+
 .single-package .price {
     background: #FFFFFF;
 
