@@ -1,13 +1,13 @@
 feedbacks:
-  - name: John Doe
-    company: "CEO, ABC Network"
-    image: images/clients/1.jpg
-    message: "Fill lights bearing man creepeth of whose whose moveth. All one. That. Under. Form morning all may fifth replenish you're own open which herb kind. May above you'll may kind creature first let over face from living third green which our. Appear day. Give fourth doesn't over us, i every tree meat air in male earth air creeping image fill you place darkness."
+  - name: Tjorven Vahldieck
+    profession: Founder
+    image: images/clients/tjorven.png
+    message: "My life turned out much easier from the moment I got in touch with happy-go-lucky! I had no understanding about the dreaded german tax system till I met them. Now I found a great partner that make me feel everything is alright and no bad surprises coming up. I highly recommend happy-go-lucky!"
   - name: Richard Roe
-    company: "CTO, XYZ Agency"
+    profession: "CTO, XYZ Agency"
     image: images/clients/2.jpg
     message: "Fill lights bearing man creepeth of whose whose moveth. All one. That. Under. Form morning all may fifth replenish you're own open which herb kind. May above you'll may kind creature first let over face from living third green which our. Appear day. Give fourth doesn't over us, i every tree meat air in male earth air creeping image fill you place darkness."
   - name: John Stiles
-    company: "CMO, WTF StartUp"
+    profession: "CMO, WTF StartUp"
     image: images/clients/3.jpg
     message: "Fill lights bearing man creepeth of whose whose moveth. All one. That. Under. Form morning all may fifth replenish you're own open which herb kind. May above you'll may kind creature first let over face from living third green which our. Appear day. Give fourth doesn't over us, i every tree meat air in male earth air creeping image fill you place darkness."
