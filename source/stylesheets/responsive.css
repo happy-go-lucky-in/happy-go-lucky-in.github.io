@@ -142,6 +142,7 @@ RESPONSIVE FIXES
     .navbar-inverse .navbar-nav>li {
         display: inline-block;
         margin-bottom: 0;
+        min-width: 100px;
     }
 
     header .intro-section {
@@ -228,31 +229,29 @@ RESPONSIVE FIXES
 }
 
 @media (max-width: 320px) {
- 
-    
     html {
         font-size: 60.5%;
     }
+
+  .full-screen h1 {
+    font-size: 30px !important;
+    line-height: 40px;
+    margin-top: 0;
+    font-weight: bold;
+  }
+
+  .full-screen .intro-section h5 {
+      font-size: 14px;
+  }
 }
 
 
-@media (min-width: 320px) and (max-width: 640px) and  (orientation: landscape) {
+@media (min-width: 320px) and (max-width: 640px) and (orientation: landscape) {
         
-    .full-screen h1 {
-        font-size: 30px !important;
-        line-height: 40px;
-        margin-top: 0;
-        font-weight: bold;
-    }
     .full-screen .intro-section .intro {
-       margin-bottom: 0;
-            
+        margin-bottom: 0;
     }
     
-    .full-screen .intro-section h5 {
-        
-        font-size: 14px;
-    }
     .full-screen .intro-section .buttons { 
         margin-top: 0;
     }
