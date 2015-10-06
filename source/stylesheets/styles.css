@@ -321,9 +321,16 @@ header .full-screen {
     color: #000000;
 }
 
-.navbar-inverse .navbar-toggle {
-border-color: #313131;
-background: #313131;
+.navbar-inverse .navbar-toggle,
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+  border-color: #999;
+  background: #999;
+}
+
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form {
+  border: none;
 }
 
 header .only-logo .navbar {
@@ -339,7 +346,7 @@ header .only-logo .navbar .navbar-header {
 
 header .intro-section {
     margin: auto;
-    padding-top: 40%;
+    padding-top: 30%;
 }
 
 header .intro-section .intro {
